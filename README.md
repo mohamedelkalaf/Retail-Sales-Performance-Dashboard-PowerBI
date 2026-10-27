@@ -48,8 +48,9 @@ This solution transforms raw transactional sales records into executive KPIs, he
 
 ## 🚀 How to Use This Repository
 1. Clone or download this repository.
-2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
-3. Use the top slicers (**Year Slider `2016–2018`** and **Category Dropdown**) to dynamically filter the report.
+2. Data (https://drive.google.com/drive/folders/1ZpYQtMIzeRrBUnm06t3eq7gfGncPLpmR?usp=drive_link)
+3. Open the `.pbix` file using **Microsoft Power BI Desktop**.
+4. Use the top slicers (**Year Slider `2016–2018`** and **Category Dropdown**) to dynamically filter the report.
 
 ---
 
